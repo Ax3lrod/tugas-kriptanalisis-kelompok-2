@@ -1,4 +1,4 @@
-## Kelompok 5
+## Kelompok 2 Mata Kuliah Kriptografi A
 
 Anggota kelompok :
 - Fiorenza Adelia Nalle 5027231053
