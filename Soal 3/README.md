@@ -27,14 +27,15 @@ Cyber Fox menemukan sebuah dokumen terenkripsi yang ternyata tidak cocok dengan 
 
 ## Hasil Analisis
 
-### 1. Tabel Frekuensi Digram dalam Bahasa Inggris
+1. Tabel Frekuensi Digram dalam Bahasa Inggris
+    ![Screenshot 2025-03-28 224114](https://github.com/user-attachments/assets/aa1affb4-0e2c-49a8-b39f-434f37218dc9)
+    ![Screenshot 2025-03-28 224135](https://github.com/user-attachments/assets/24e757fc-b790-4c77-ac8b-127772d5106d)
 
-![image.png](image.png)
+2. **Tabel Frekuensi Digram dalam Ciphertext**
 
-![image.png](image%201.png)
+   ![Screenshot 2025-03-28 224312](https://github.com/user-attachments/assets/c7dadec5-8c64-4fb0-8fb9-8a89dde8082c)
+   ![Screenshot 2025-03-28 224340](https://github.com/user-attachments/assets/157f9e7e-26e1-4a27-8830-04ffbded1356)
 
-1. **Tabel Frekuensi Digram dalam Ciphertext**
+   
 
-![image.png](image%202.png)
-
-![image.png](image%203.png)
+   
