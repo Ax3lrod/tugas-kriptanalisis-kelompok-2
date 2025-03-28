@@ -5,6 +5,8 @@
 **Aryasatya Alaauddin** 
 
 **5027231082**
+**Waktu Cryptanalisis:**
+6 jam
 
 **Known plaintext:**
 
