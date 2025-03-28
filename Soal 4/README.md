@@ -1,10 +1,5 @@
-# Hill Cipher Kriptanalisis
+# Soal 4: Hill Cipher
 
-# Hill Cipher
-
-**Aryasatya Alaauddin** 
-
-**5027231082**
 **Waktu Cryptanalisis:**
 6 jam
 
