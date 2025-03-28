@@ -34,15 +34,15 @@ Cyber Fox menemukan sebuah dokumen terenkripsi yang ternyata tidak cocok dengan 
 
 1. Tabel Frekuensi Digram dalam Bahasa Inggris
     
-    [](https://github.com/user-attachments/assets/aa1affb4-0e2c-49a8-b39f-434f37218dc9)
+    ![image](https://github.com/user-attachments/assets/2d2c0444-d66a-40f3-8180-b536416ee4f6)
     
-    [](https://github.com/user-attachments/assets/24e757fc-b790-4c77-ac8b-127772d5106d)
+    ![image](https://github.com/user-attachments/assets/24e757fc-b790-4c77-ac8b-127772d5106d)
     
 2. **Tabel Frekuensi Digram dalam Ciphertext**
     
-    [](https://github.com/user-attachments/assets/c7dadec5-8c64-4fb0-8fb9-8a89dde8082c)
+    ![image](https://github.com/user-attachments/assets/c7dadec5-8c64-4fb0-8fb9-8a89dde8082c)
     
-    [](https://github.com/user-attachments/assets/157f9e7e-26e1-4a27-8830-04ffbded1356)
+    ![image](https://github.com/user-attachments/assets/157f9e7e-26e1-4a27-8830-04ffbded1356)
     
 
 ## Langkah-langkah pemecahan
